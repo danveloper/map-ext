@@ -1,0 +1,4 @@
+moduleName=ext-map
+moduleVersion=0.lol
+extensionClasses=groovyx.ext.MapExtensions
+staticExtensionClasses=
